@@ -7,14 +7,32 @@ Website INTRIVIA adalah platform yang dirancang untuk mendukung kesuksesan acara
 Frontend
 - Typescript
 - React
-- Nextjs
-- TailwindCSS
+- Next.js
+- Tailwind CSS
 
 Backend
 - Go
 - Fiber
 - GORM
 - PostgreSQL
-- Supabase Database
-- AWS EC2/VPS/Vercel
+- Supabase
+- AWS
 - Docker
+
+UI/UX:
+- Figma
+
+## Tim
+Leader:
+- Naufal Romero Putra Pratama (TIF 22)
+- Nugraha Billy Viandy (TIF 23)
+
+Frontend:
+- Kenzie Taqiyassar (TIF 22)
+
+Backend:
+- I Putu Natha Kusuma (TIF 23)
+- Komang David Dananjaya Suartana (TIF 23)
+
+UI/UX:
+- Hafiz Rizky Nurwachid (TIF 22)
